@@ -73,11 +73,12 @@ EventLogix/
 
 ## Video demostrativo
 
-https://youtu.be/r36aRomJa2Y
+[![Ver video en YouTube]([https://img.youtube.com/vi/r36aRomJa2Y/0.jpg])(https://github.com/user-attachments/assets/51e01dfd-acd4-4338-a7ac-616eeac1803e))](https://youtu.be/r36aRomJa2Y)
 
 ---
 
 ## Estudiante
+
 
 **Sebastián Arias Avilés**  
 Curso: 03101 – Programación Avanzada en Web  
