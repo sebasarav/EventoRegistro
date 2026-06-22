@@ -73,7 +73,7 @@ EventLogix/
 
 ## Video demostrativo
 
-[PEGAR AQUÍ EL ENLACE AL VIDEO]
+https://youtu.be/r36aRomJa2Y
 
 ---
 
