@@ -7,11 +7,11 @@
 // </generado automáticamente>
 //------------------------------------------------------------------------------
 
-namespace EventoRegistro
+namespace EventLogix
 {
 
 
-    public partial class Confirmacion
+    public partial class Confirm
     {
 
         /// <summary>

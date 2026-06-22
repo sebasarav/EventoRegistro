@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Web.UI;
 
-namespace EventoRegistro
+namespace EventLogix
 {
-    public partial class Confirmacion : Page
+    public partial class Confirm : Page
     {
         // Load the page and display the information stored in session variables
         protected void Page_Load(object sender, EventArgs e)

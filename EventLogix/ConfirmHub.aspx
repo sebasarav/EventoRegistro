@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="ConfirmHub.aspx.cs" Inherits="EventoRegistro.Confirmacion" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="ConfirmHub.aspx.cs" Inherits="EventLogix.Confirm" %>
 
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
