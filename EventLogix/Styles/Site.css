@@ -1,0 +1,232 @@
+﻿* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Arial, sans-serif;
+    font-size: 14px;
+    background-color: #eef2f7;
+    color: #333;
+}
+
+/* ---- Encabezado institucional ---- */
+.header {
+    background-color: #003366;
+    color: #ffffff;
+    text-align: center;
+    padding: 20px 15px;
+}
+
+    .header h1 {
+        font-size: 22px;
+        margin-bottom: 5px;
+    }
+
+    .header h2 {
+        font-size: 14px;
+        font-weight: normal;
+        opacity: 0.85;
+    }
+
+/* ---- Contenedor principal ---- */
+.conteiner {
+    max-width: 680px;
+    margin: 30px auto;
+    background-color: #ffffff;
+    padding: 35px 40px;
+    border-radius: 8px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+    .conteiner h3 {
+        color: #003366;
+        font-size: 18px;
+        margin-bottom: 20px;
+        padding-bottom: 10px;
+        border-bottom: 3px solid #003366;
+    }
+
+/* ---- Campos del formulario ---- */
+.field {
+    margin-bottom: 18px;
+}
+
+.label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 6px;
+    color: #444;
+}
+
+.input-text {
+    width: 100%;
+    padding: 9px 12px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 14px;
+    transition: border-color 0.2s;
+}
+
+    .input-text:focus {
+        outline: none;
+        border-color: #003366;
+        box-shadow: 0 0 0 3px rgba(0,51,102,0.15);
+    }
+
+.input-select {
+    width: 100%;
+    padding: 9px 12px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 14px;
+    background-color: #fff;
+}
+
+/* ---- Radio buttons ---- */
+.radio-group table {
+    margin-top: 5px;
+}
+
+.radio-group td {
+    padding-right: 25px;
+    font-size: 14px;
+}
+
+/* ---- Checkbox ---- */
+.checkbox {
+    margin-top: 5px;
+    font-size: 14px;
+}
+
+/* ---- Mensajes de error (asterisco y validadores) ---- */
+.error {
+    color: #cc0000;
+    font-weight: bold;
+    margin-left: 6px;
+    font-size: 15px;
+}
+
+/* ---- Resumen de validaciones ---- */
+.validation-summary {
+    background-color: #fff0f0;
+    border: 1px solid #cc0000;
+    border-radius: 5px;
+    padding: 12px 16px;
+    margin-bottom: 20px;
+    color: #cc0000;
+    font-size: 13px;
+}
+
+/* ---- Panel de información del evento (se muestra con postback) ---- */
+.info-event {
+    background-color: #e8f0fb;
+    border-left: 4px solid #003366;
+    padding: 10px 14px;
+    border-radius: 4px;
+    color: #003366;
+    font-size: 13px;
+    margin-top: 5px;
+}
+
+/* ---- Botones ---- */
+.field-button {
+    margin-top: 28px;
+    text-align: center;
+}
+
+.btn-primary {
+    background-color: #003366;
+    color: #ffffff;
+    border: none;
+    padding: 11px 28px;
+    font-size: 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 5px;
+    transition: background-color 0.2s;
+}
+
+    .btn-primary:hover {
+        background-color: #0055a5;
+    }
+
+.btn-secondary {
+    background-color: #888888;
+    color: #ffffff;
+    border: none;
+    padding: 11px 28px;
+    font-size: 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 5px;
+    transition: background-color 0.2s;
+}
+
+    .btn-secondary:hover {
+        background-color: #666666;
+    }
+
+/* ---- Página de confirmación ---- */
+.confirm-icon {
+    text-align: center;
+    font-size: 52px;
+    margin: 10px 0;
+}
+
+.message-confirm {
+    display: block;
+    background-color: #e8f5e9;
+    border: 1px solid #4caf50;
+    border-radius: 5px;
+    padding: 14px;
+    color: #2e7d32;
+    margin-bottom: 22px;
+    font-size: 14px;
+    line-height: 1.5;
+}
+
+.resume {
+    background-color: #f7f9fc;
+    border: 1px solid #dde3ec;
+    border-radius: 6px;
+    padding: 20px;
+    margin-bottom: 22px;
+}
+
+    .resumen h4 {
+        color: #003366;
+        margin-bottom: 14px;
+        font-size: 15px;
+    }
+
+.table-resume {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+    .table-resume tr:last-child td {
+        border-bottom: none;
+    }
+
+    .table-resume td {
+        padding: 10px 8px;
+        border-bottom: 1px solid #e0e6f0;
+        font-size: 14px;
+        vertical-align: top;
+    }
+
+.td-label {
+    font-weight: bold;
+    color: #003366;
+    width: 200px;
+}
+
+
+.footer {
+    text-align: center;
+    padding: 15px;
+    color: #888;
+    font-size: 12px;
+}
