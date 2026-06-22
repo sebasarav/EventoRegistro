@@ -73,8 +73,7 @@ EventLogix/
 
 ## Video demostrativo
 
-[![Ver video en YouTube]([https://img.youtube.com/vi/r36aRomJa2Y/0.jpg])(https://github.com/user-attachments/assets/51e01dfd-acd4-4338-a7ac-616eeac1803e))](https://youtu.be/r36aRomJa2Y)
-
+[![Miniatura del video](https://img.youtube.com/vi/r36aRomJa2Y/0.jpg)](https://youtu.be/r36aRomJa2Y)
 ---
 
 ## Estudiante
